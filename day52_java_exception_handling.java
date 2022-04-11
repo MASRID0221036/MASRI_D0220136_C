@@ -16,7 +16,7 @@ class MyCalculator {
     }  
 }
 
-public class Solution {
+public class day52_java_exception_handling {
     public static final MyCalculator my_calculator = new MyCalculator();
     public static final Scanner in = new Scanner(System.in);
     
